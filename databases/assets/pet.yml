@@ -1,0 +1,25 @@
+%YAML 1.1
+---
+# petheroes.pet
+-
+  Id: 1
+  Name: "Pipo"
+  Species: "Dog"
+  Breed: "Mixed"
+  Age: 2
+  Gender: "male"
+-
+  Id: 2
+  Name: "Ginebra"
+  Species: "Dog"
+  Breed: "Golden Retriever"
+  Age: 7
+  Gender: "female"
+-
+  Id: 3
+  Name: "Mishu"
+  Species: "Cat"
+  Breed: "Unknown"
+  Age: 4
+  Gender: "female"
+...
